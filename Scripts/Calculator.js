@@ -1,4 +1,5 @@
-﻿var Calculator = {
+﻿//Teste
+var Calculator = {
     sum: function (a, b) {
         return a + b;
     },
